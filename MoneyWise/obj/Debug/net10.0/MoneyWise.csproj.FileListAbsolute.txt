@@ -1,0 +1,14 @@
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/bin/Debug/net10.0/MoneyWise
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/bin/Debug/net10.0/MoneyWise.deps.json
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/bin/Debug/net10.0/MoneyWise.runtimeconfig.json
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/bin/Debug/net10.0/MoneyWise.dll
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/bin/Debug/net10.0/MoneyWise.pdb
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.AssemblyInfoInputs.cache
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.AssemblyInfo.cs
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.csproj.CoreCompileInputs.cache
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.dll
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/refint/MoneyWise.dll
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.pdb
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/MoneyWise.genruntimeconfig.cache
+/Users/administrator/Documents/c#_projects/MoneyWise/MoneyWise/obj/Debug/net10.0/ref/MoneyWise.dll
